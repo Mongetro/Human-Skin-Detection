@@ -53,3 +53,5 @@ Desktop.ini
 *.log
 *.tmp
 *.temp
+
+delete_zone.sh
