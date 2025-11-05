@@ -15,7 +15,7 @@ This project was carried out as part of the computer vision course, in the Maste
   └── test/        → Original images
 ```
 
-Astuce : Utilisez GIMP pour créer des masques :
+Tip: Use GIMP to create masks:
 _Layer → Transparency → Add Alpha Channel → paint non-skin black._
 
 **Key features**:

@@ -14,6 +14,13 @@ human_skin_detection.exe      # Windows executable
 result/
 histogramme/
 
+# Out base images
+image_hors_base1.jpg
+image_hors_base2.jpg
+reference-hors_base1.jpg
+reference-hors_base2.jpg
+
+
 
 # === 4. IDE / Editor Artifacts ===
 # VS Code
