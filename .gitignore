@@ -1,0 +1,48 @@
+
+#
+# Keep only: source code, Makefile, report, dataset structure
+# =============================================================================
+
+# === 1. Compiled Executables & Object Files ===
+human_skin_detection         # Linux/macOS executable
+human_skin_detection.exe      # Windows executable
+*.o                             # Object files
+*.obj
+*.out
+
+# === 2. Output Folders (generated at runtime) ===
+result/
+histogramme/
+
+
+# === 4. IDE / Editor Artifacts ===
+# VS Code
+.vscode/
+*.code-workspace
+
+# CLion / JetBrains
+.idea/
+*.iml
+
+# Vim
+*.swp
+*.swo
+
+# Emacs
+*~
+.#*
+
+# === 5. OS-Specific Files ===
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+
+# === 8. Logs & Temporary Files ===
+*.log
+*.tmp
+*.temp
