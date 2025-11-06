@@ -4,7 +4,7 @@
 
 This project implements **pixel-wise human skin detection** using **2D color histograms in Lab space** and **Bayesian classification**. Trained on 30 skin images (Human-Skin-Detection/base/skin) + 30 non-skin images (Human-Skin-Detection/base/non-skin), it achieves **85.6% accuracy** on test images (Human-Skin-Detection/base/test/) (threshold 0.4, scale 32).
 
-This project was carried out as part of the computer vision course, in the Master's program in Intelligent Systems and Multimedia at the International Francophone Institute / Vietnam National University. The file Human-Skin-Detection/Repport/goint_p22-tp1.pdf details the implementation, operation, experimentation and results of the program.
+The project was carried out as part of the computer vision course, in the Master's program in Intelligent Systems and Multimedia at the International Francophone Institute / Vietnam National University. The file Human-Skin-Detection/Repport/goint_p22-tp1.pdf details the implementation, operation, experimentation and results of the program.
 
 ## Dataset Structure
 
