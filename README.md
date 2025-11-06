@@ -109,7 +109,7 @@ Performance           : 85.5933 %
 Quick check :
 
 ```sh
-ls resultat/ histogramme/
+ls result/ histogramme/
 ```
 
 ## Cleanup and recompilation
