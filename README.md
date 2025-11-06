@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project implements **pixel-wise human skin detection** using **2D color histograms in Lab space** and **Bayesian classification**. Trained on 30 skin images (Human-Skin-Detection/base/skin) + 30 non-skin images (Human-Skin-Detection/base/non-skin), it achieves **85.6% accuracy** on test images (Human-Skin-Detection/base/test/) (threshold 0.4, scale 32).
+This project implements **pixel-wise human skin detection** using **2D color histograms in Lab space** and **Bayesian classification**. Trained on 30 skin images (human-skin-detection/base/skin) + 30 non-skin images (human-skin-detection/base/non-skin), it achieves **85.6% accuracy** on test images (human-skin-detection/base/test/) (threshold 0.4, scale 32).
 
-The project was carried out as part of the computer vision course, in the Master's program in Intelligent Systems and Multimedia at the International Francophone Institute / Vietnam National University. The file Human-Skin-Detection/Repport/goint_p22-tp1.pdf details the implementation, operation, experimentation and results of the program.
+The project was carried out as part of the computer vision course, in the Master's program in Intelligent Systems and Multimedia at the International Francophone Institute / Vietnam National University. The file human-skin-detection/Repport/goint_p22-tp1.pdf details the implementation, operation, experimentation and results of the program.
 
 ## Dataset Structure
 
@@ -42,11 +42,11 @@ Before you begin, ensure you have:
 The first things you need to do are cloning this repository and setting up the project environment files
 
 ```sh
-git clone https://github.com/Mongetro/Human-Skin-Detection.git
+git clone https://github.com/Mongetro/human-skin-detection.git
 ```
 
 ```sh
-cd Human-Skin-Detection
+cd human-skin-detection
 ```
 
 ## 2. Build & Compilation
