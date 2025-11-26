@@ -4,9 +4,12 @@
 # =============================================================================
 
 # === 1. Compiled Executables & Object Files ===
-human_skin_detection         # Linux/macOS executable
-human_skin_detection.exe      # Windows executable
-*.o                             # Object files
+human_skin_detection         
+# Linux/macOS executable
+human_skin_detection.exe      
+# Windows executable
+*.o                             
+# Object files
 *.obj
 *.out
 
