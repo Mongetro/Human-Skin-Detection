@@ -13,6 +13,7 @@ human_skin_detection.exe      # Windows executable
 # === 2. Output Folders (generated at runtime) ===
 result/
 histogramme/
+build/
 
 # Out base images
 image_hors_base1.jpg
