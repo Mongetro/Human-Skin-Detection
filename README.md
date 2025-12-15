@@ -69,7 +69,7 @@ make
 
 - The executable is human_skin_detection.
 
-# 3. Run the program with parameters + and input image
+# 3. Run the program with parameters + input image
 
 ```sh
 ./human_skin_detection <scale> <threshold> <image_name>
